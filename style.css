@@ -6,6 +6,12 @@ background-color: brown;
 text-align: justify;
 }
 
+h3{
+    color: blue;
+    background-color: brown;
+text-align: justify;
+}
+
 .clase{
     color: aqua;
     text-align: center;
@@ -18,3 +24,9 @@ background-color: beige;
     text-align: right;
     
 }
+
+ol{
+    background-color: deeppink;
+text-align: center;
+}
+

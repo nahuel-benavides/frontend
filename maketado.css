@@ -1,13 +1,19 @@
 .cabeza{
 
     height: 100px;
+background-color: blueviolet;
 }
 
 .cuerpo{
     height: 400px;
+background-color: brown;
 }
 
 .pie{
     height: 50px;
+background-color: blue;
 }
 
+.borde{
+    border: 3px solid black;
+}

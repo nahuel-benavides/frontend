@@ -1,0 +1,47 @@
+.padre{
+    display: flex;
+flex-direction: column;
+justify-content: space-around;
+
+
+}
+
+
+.boxStandar{
+
+    height: 200px;
+    background-color: blueviolet;
+    border: solid red;
+
+}
+
+
+.box1{
+    display: block;
+    width: auto;
+height: 150px;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+.box2{
+   display: inline-block;
+   width: 50%;
+   height: auto;
+   text-align: left;
+}
+
+.box3{ 
+    display: inline-block;
+    width: 50%;
+    max-width: 300px;
+   }
+
+   img{
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+   }
+
+
